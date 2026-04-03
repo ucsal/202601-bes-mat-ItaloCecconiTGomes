@@ -10,4 +10,5 @@
 <p>Criacao da classe ListarTentativasAcao. Essa classe recebeu o metodo ListarTentativas.</p>
 </p>
 <p>3 commit: Criacao da classe DadosIniciais. Essa classe recebeu o metodo seed.</p>
+<p>4 commit: Criacao da classe Menu. Essa classe recebeu o loop que mostra as opcoes de acao.</p>
 
